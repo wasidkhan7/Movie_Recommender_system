@@ -62,6 +62,7 @@ This project is a **Content-Based Filtering Movie Recommender System** built usi
 - Displays 5 movie recommendations with poster and title
 
 ---
+![image](https://github.com/user-attachments/assets/10729f3d-0d1e-4f97-a8da-e18b32339045)
 
 
 
